@@ -20,7 +20,12 @@ nav a{
 nav a:hover{
 background-color: #ddd;
 }
-header{
-    padding: 100%;
-    width: 100%;
+header {
+    z-index: 1;
+    position: fixed;
+    width: 97.5%;
+    margin-top: -20px;
+    height: 60px;
+    background-color: #668284;
+    margin-bottom: 10px;
 }
