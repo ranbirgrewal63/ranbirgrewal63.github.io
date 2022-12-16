@@ -24,13 +24,13 @@ background-color: #ddd;
 .nav{
     padding: 250px;
     text-align: center;
-    background-image: url("truck.jpg");
     font-size: 30px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+   
 @media(min-width: 1025px){
     nav{
         background-image: url("truck.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
     }
 }
