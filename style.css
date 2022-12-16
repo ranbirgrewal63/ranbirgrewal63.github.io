@@ -20,3 +20,7 @@ nav a{
 nav a:hover{
 background-color: #ddd;
 }
+header{
+    padding: 100%;
+    width: 100%;
+}
