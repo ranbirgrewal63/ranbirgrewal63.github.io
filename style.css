@@ -27,5 +27,7 @@ background-color: #ddd;
     background-image: url("truck.jpg");
     font-size: 30px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    width: 100%;
+    height: auto;
 }
