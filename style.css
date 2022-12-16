@@ -26,4 +26,5 @@ background-color: #ddd;
     text-align: center;
     background-image: url("https://www.cdlogistics.ca/freight-news/wp-content/uploads/2019/11/logistic-trailer-types-768x513.jpg");
     font-size: 30px;
+    background-repeat: no-repeat;
 }
