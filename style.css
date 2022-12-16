@@ -28,3 +28,6 @@ background-color: #ddd;
     background: url("truck.jpg");
     background-size: cover;
 }
+.media{
+    display: inline-block;
+}
