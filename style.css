@@ -27,7 +27,7 @@ background-color: #ddd;
     font-size: 30px;
    
 @media(min-width: 2304px){
-    nav{
+    .nav{
         background-image: url("truck.jpg");
         background-repeat: no-repeat;
         background-size: cover;
