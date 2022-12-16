@@ -25,6 +25,6 @@ background-color: #ddd;
     padding: 250px;
     text-align: center;
     font-size: 30px;
-    background-image: url("truck.jpg");
+    background: url("truck.jpg");
     background-size: cover;
 }
