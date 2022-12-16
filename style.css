@@ -28,6 +28,9 @@ background-color: #ddd;
     font-size: 30px;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 100%;
-    height: auto;
+}
+@media(min-width: 1025px){
+    nav{
+        background-image: url("truck.jpg");
+    }
 }
