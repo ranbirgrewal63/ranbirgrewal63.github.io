@@ -17,3 +17,6 @@ nav a{
     color: green;
 }
 
+nav a:hover{
+background-color: #ddd;
+}
