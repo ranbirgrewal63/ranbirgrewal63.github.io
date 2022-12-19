@@ -67,3 +67,10 @@ background-color: #ddd;
     background-color: #04AA6D;
     color: white;
   }
+  h2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 250px;
+    text-align: center;
+  }
