@@ -74,3 +74,10 @@ background-color: #ddd;
     top: 250px;
     text-align: center;
   }
+  p{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 250px;
+    text-align: center;
+  }
