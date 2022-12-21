@@ -80,4 +80,5 @@ background-color: #ddd;
     position: relative;
     top: 250px;
     text-align: center;
+    z-index: index;
   }
