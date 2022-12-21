@@ -77,7 +77,7 @@ background-color: #ddd;
   p{
     display: flex;
     justify-content: center;
-    position: fixed;
+    position: relative;
     top: 200px;
     text-align: center;
   }
