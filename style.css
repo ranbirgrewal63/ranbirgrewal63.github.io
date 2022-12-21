@@ -40,7 +40,7 @@ background-color: #ddd;
 .navbar {
     background-color: #333;
     overflow: hidden;
-    position: fixed;
+    position:relative;
     bottom: 0;
     width: 100%;
   }
@@ -80,5 +80,5 @@ background-color: #ddd;
     position: relative;
     top: 250px;
     text-align: center;
-    z-index: index;
+    position: relative;
   }
