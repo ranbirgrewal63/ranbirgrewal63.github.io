@@ -11,6 +11,7 @@ h1{
 body{
     background: url('truck.jpg');
     background-size: 2050px 500px;
+    background-repeat: no-repeat;
 }
 
 nav a{
