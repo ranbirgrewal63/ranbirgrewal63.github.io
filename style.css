@@ -4,13 +4,13 @@ h1{
     justify-content: center;
     font-size: 150px;
     position: relative;
-    top: 400px;
+    top: 350px;
     text-align: center;
     font-family: 'Rubik Storm', cursive;
 }
 body{
     background: url('truck.jpg');
-    background-size: 2050px 500px;
+    background-size: 2050px 600px;
     background-repeat: no-repeat;
 }
 
